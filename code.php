@@ -8,12 +8,18 @@
                 <div class="card-title">
                     <h2 class="text-center mt-2"> Enter code</h2>
                     <hr>
+                    <?php
+                    validation_code();
+                    ?>
                 </div>
                 <div class="card-body">
-                    <input type="text" name="recover-code" placeholder="######" class="form-control py-2 mb-2">
+                    <form action="">
+                        <input type="text" name="recover_code" placeholder="######" class="form-control py-2 mb-2">
 
                     <button class="btn btn-danger float-right"> Cancel </button>
                     <button class="btn btn-success float-left"> Send Password </button>
+                    </form>
+
                 </div>
             </div>
         </div>

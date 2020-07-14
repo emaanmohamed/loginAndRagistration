@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c58b7300-1640-40b8-9043-e6c03610ce32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code.php" beforeDir="false" afterPath="$PROJECT_DIR$/code.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recover.php" beforeDir="false" afterPath="$PROJECT_DIR$/recover.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reset.php" beforeDir="false" afterPath="$PROJECT_DIR$/reset.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../B.research" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="ServiceViewManager">
@@ -71,7 +66,8 @@
       <workItem from="1593352991330" duration="3050000" />
       <workItem from="1593453716052" duration="2210000" />
       <workItem from="1593513855278" duration="11722000" />
-      <workItem from="1593785194846" duration="3657000" />
+      <workItem from="1593785194846" duration="5097000" />
+      <workItem from="1594711494223" duration="278000" />
     </task>
     <servers />
   </component>
@@ -79,10 +75,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1593593938180">
+    <state x="933" y="171" key="FileChooserDialogImpl" timestamp="1593856043965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593593938180" />
+    <state x="933" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593856043965" />
     <state x="930" y="230" key="NewPhpClassDialog" timestamp="1591039689065">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
